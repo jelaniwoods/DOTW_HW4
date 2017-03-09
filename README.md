@@ -10,4 +10,5 @@ Icons SVG Images include:
   * Calendar
   * Sleep Cloud
   
-Project: http://i6.cims.nyu.edu/~jmw686/dotw/hw2/
+
+Another link: [SVG HW 2](http://i6.cims.nyu.edu/~jmw686/dotw/hw2/)

@@ -1,0 +1,30 @@
+
+body {
+  background-color: pink;
+}
+
+p {
+  margin: 0;
+  font-size: 6em;
+  color: aqua;
+}
+
+nav {
+  margin: 0 auto;
+}
+svg.icons {
+  width: 1em;
+  height: 1em;
+  fill: black;
+}
+
+svg.icons:hover {
+  width: 1.1em;
+  height: 1.1em;
+  /*margin: 0;*/
+}
+svg.elements {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+}

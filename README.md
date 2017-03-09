@@ -1,7 +1,7 @@
 # DOTW_HW4
-Version Control SVG Project
+## Version Control SVG Project
 
-Icons SVG Images include:
+### Icons SVG Images include:
   * Speaker
   * Mug
   * Home
@@ -11,4 +11,4 @@ Icons SVG Images include:
   * Sleep Cloud
   
 
-Another link: [SVG HW 2](http://i6.cims.nyu.edu/~jmw686/dotw/hw2/)
+[SVG HW 2](http://i6.cims.nyu.edu/~jmw686/dotw/hw2/)
